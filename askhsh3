@@ -1,3 +1,0 @@
-import urllib.request
-d=urllib.request.urlopen(https://api.opap.gr/games/v1.0/1100/statistics?drawRange=1801)
-type(d)
